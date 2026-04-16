@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My CRUD Application</string>
+    <string name="add_record">Add New Record</string>
+    <string name="edit_record">Edit Record</string>
+    <string name="save_record">Save Record</string>
+    <string name="update_record">Update Record</string>
+    <string name="cancel">Cancel</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
+</resources>

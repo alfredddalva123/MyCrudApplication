@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyCrudApplication" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#1c3178</item>
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+
+        <item name="materialButtonStyle">@style/Widget.MaterialComponents.Button</item>
+    </style>
+
+    <style name="Theme.MyCrudApplication" parent="Base.Theme.MyCrudApplication" />
+</resources>
